@@ -1,4 +1,4 @@
-https://docs.coinapi.io/
+Get an API KEY: https://docs.coinapi.io/
 
 To create a web app that converts between Bitcoin and various currencies using HTML, CSS, and JavaScript, you can follow these steps:
 Step 1: Set up the HTML structure
