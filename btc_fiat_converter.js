@@ -1,3 +1,5 @@
+https://docs.coinapi.io/
+
 To create a web app that converts between Bitcoin and various currencies using HTML, CSS, and JavaScript, you can follow these steps:
 Step 1: Set up the HTML structure
 Create an index.html file with the following structure:
